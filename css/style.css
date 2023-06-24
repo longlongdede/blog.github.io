@@ -773,7 +773,7 @@ body {
   padding: 0;
   color: var(--default-text-color);
   background: var(--background-color);
-  font-family: Satoshi-Variable, Noto Sans CJK, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
+  font-family: Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
   font-weight: 450;
   font-size: 16px;
   line-height: 1.5;
@@ -912,7 +912,7 @@ button {
   clear: both;
 }
 .markdown-body {
-  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans CJK', 'Noto Sans SC', sans-serif, sans-serif;
+  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans SC', sans-serif, sans-serif;
   font-size: 16px;
 }
 .markdown-body blockquote {
@@ -1016,7 +1016,7 @@ button {
 .markdown-body .h4,
 .markdown-body .h5,
 .markdown-body .h6 {
-  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans CJK', 'Noto Sans SC', sans-serif, sans-serif;
+  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans SC', sans-serif, sans-serif;
   color: var(--second-text-color);
   line-height: 1.5;
   margin-bottom: 1rem !important;
@@ -3017,7 +3017,7 @@ pre .deletion {
   width: 100%;
   font-size: 0.92rem;
   box-sizing: border-box;
-  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans CJK', 'Noto Sans SC', sans-serif, 'Noto Sans', 'Noto Sans SC', sans-serif;
+  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans SC', sans-serif, 'Noto Sans', 'Noto Sans SC', sans-serif;
 }
 .post-toc-wrap .post-toc .toc-title {
   font-size: 0.8rem;
@@ -8042,7 +8042,7 @@ pre .deletion {
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
-  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans CJK', 'Noto Sans SC', sans-serif, 'Noto Sans SC', sans-serif;
+  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans SC', sans-serif, 'Noto Sans SC', sans-serif;
   margin: 0;
 }
 @media (max-width: 780px) {
@@ -8507,7 +8507,7 @@ pre .deletion {
   text-align: left;
   border-radius: 9px;
   cursor: pointer;
-  font-family: Satoshi-Variable, Noto Sans CJK, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
+  font-family: Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
 }
 .home-sidebar-container .sidebar-links .links .link-name {
   font-weight: 450;
@@ -8928,7 +8928,7 @@ pre .deletion {
   margin: 0px 0 30px 0;
   line-height: 1.4;
   color: var(--second-text-color);
-  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans CJK', 'Noto Sans SC', sans-serif, 'Noto Sans SC', sans-serif;
+  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans SC', sans-serif, 'Noto Sans SC', sans-serif;
 }
 .post-page-container .article-content-container .article-title .article-title-cover {
   display: flex;
@@ -8939,7 +8939,7 @@ pre .deletion {
   bottom: 36px;
   left: 0;
   text-align: center;
-  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans CJK', 'Noto Sans SC', sans-serif, 'Noto Sans SC', sans-serif;
+  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans SC', sans-serif, 'Noto Sans SC', sans-serif;
   color: var(--second-text-color);
   font-size: 3.2rem;
   font-weight: 700;
@@ -8963,7 +8963,7 @@ pre .deletion {
   }
 }
 .post-page-container .article-content-container .article-header {
-  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans CJK', 'Noto Sans SC', sans-serif, 'Noto Sans', 'Noto Sans SC', sans-serif;
+  font-family: 'Satoshi-Variable', sans-serif, 'Noto Sans SC', sans-serif, 'Noto Sans', 'Noto Sans SC', sans-serif;
   position: relative;
   padding-left: 46px;
   width: 100%;
